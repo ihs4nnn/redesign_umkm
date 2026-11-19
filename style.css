@@ -1,0 +1,892 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Montserrat:wght@300;400;600;800&family=Poppins:wght@400;500;600;700&display=swap');
+
+.furniture-33-frame-furniture33 {
+  width: 2848px;
+  overflow: hidden;
+  max-width: 2848px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #fff;
+}
+
+/* ================= HERO SECTION ================= */
+.furniture-33-frame-h1,
+.furniture-33-frame-hero-secion-e4 {
+  width: 2846px;
+  max-width: 2846px;
+  box-sizing: border-box;
+  min-height: 1590px;
+  position: relative;
+}
+
+.furniture-33-frame-h1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: #f5f5f5;
+}
+
+.furniture-33-frame-gemini-generated-s2 {
+  position: absolute;
+  top: 126px;
+  left: 0;
+  width: 2848px;
+  height: 1464px;
+  box-sizing: border-box;
+  background-size: cover;
+  /* Langsung memanggil baground_beranda.jpeg di folder css/ */
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #fffafa 100%), url(baground_beranda.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 1;
+}
+
+/* ================= NAVBAR ================= */
+.furniture-33-frame-uz {
+  width: 2846px;
+  max-width: 2846px;
+  box-sizing: border-box;
+  min-height: 126px;
+  padding: 0 190px;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #000;
+  position: relative;
+  z-index: 10;
+}
+
+.furniture-33-frame-qg,
+.furniture-33-frame60 {
+  gap: 150px;
+  width: fit-content;
+  height: auto;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.furniture-33-frame-qg {
+  gap: 90px;
+}
+
+.furniture-33-text-beranda-ff2,
+.furniture-33-text-produk4e2,
+.furniture-33-text-portofolio-td2,
+.furniture-33-text-faq-ic2,
+.furniture-33-text-tentang-kami7b2 {
+  color: #fff;
+  font-size: 27.58px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  line-height: 41px;
+  white-space: nowrap;
+}
+
+.furniture-33-frame-group55l9 {
+  width: 59px;
+  min-height: 49px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.furniture-33-frame-hq {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: -4px;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #c70000;
+}
+
+.furniture-33-text4-sr2 {
+  color: #fff;
+  font-size: 19.7px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+/* ================= HERO CONTENT ================= */
+.furniture-33-frame-yl {
+  position: relative;
+  z-index: 5;
+  margin-top: 280px;
+  margin-left: 195px;
+  gap: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.furniture-33-frame9m {
+  gap: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.furniture-33-text-tingkatkan-visibilita-kn1 {
+  max-width: 1100px;
+}
+
+.furniture-33-text-tingkatkan-visibilita-kn2 {
+  color: #000;
+  font-size: 85px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  line-height: 115px;
+}
+
+.furniture-33-text-we-touch-vo2 {
+  color: #ffe600;
+  font-size: 50px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  line-height: 75px;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+}
+
+.furniture-33-frame-mx {
+  width: 325px;
+  min-height: 99px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: #ff0000;
+  box-shadow: 0 8px 20px rgba(255, 0, 0, 0.3);
+}
+
+.furniture-33-text-konsultasi-xy2 {
+  color: #fff;
+  font-size: 31.52px;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* ================= LAYANAN KAMI ================= */
+.furniture-33-frame-layanan-kami-we {
+  width: 2459px;
+  max-width: 2459px;
+  padding: 100px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.furniture-33-text-layanan-kami-cy1 {
+  order: 1;
+  margin-bottom: 12px;
+}
+
+.furniture-33-text-layanan-kami-cy2 {
+  color: #e6cf00;
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+.furniture-33-text-solusi-lengkap-qw1 {
+  order: 2;
+  margin-bottom: 16px;
+}
+
+.furniture-33-text-solusi-lengkap-qw2 {
+  color: #000;
+  font-size: 42px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+.furniture-33-text-solusi-cetak-fv1 {
+  order: 3;
+  margin-bottom: 60px;
+}
+
+.furniture-33-text-solusi-cetak-fv2 {
+  color: #4b5563;
+  font-size: 28px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+.furniture-33-frame-rw {
+  order: 4;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.furniture-33-frame-gv,
+.furniture-33-frame-nt,
+.furniture-33-frame8v {
+  width: 804px;
+  min-height: 394px;
+  padding: 36px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.furniture-33-frame-lw,
+.furniture-33-frame-yu,
+.furniture-33-frame-jw {
+  gap: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  z-index: 2;
+  max-width: 420px;
+}
+
+.furniture-33-frame-d5,
+.furniture-33-frame-mf,
+.furniture-33-frame-ep {
+  gap: 14px;
+  display: flex;
+  flex-direction: column;
+}
+
+.furniture-33-text-neon-box-o62,
+.furniture-33-text-cetak-banner-xg2,
+.furniture-33-text-huruf-timbul-pq2 {
+  color: #000;
+  font-size: 38px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+.furniture-33-text-bahan-akrilik522,
+.furniture-33-text-ux2,
+.furniture-33-text742 {
+  color: #374151;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.furniture-33-image-neon-box-kw {
+  width: 310px;
+  height: 310px;
+  object-fit: contain;
+}
+
+.furniture-33-image61b-s-mt {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+
+.furniture-33-image-tulisan3-nz {
+  width: 300px;
+  height: auto;
+  object-fit: contain;
+}
+
+/* ================= ALUR KERJA / PEMESANAN ================= */
+.furniture-33-frame-pemesanan-sj {
+  width: 2837px;
+  max-width: 2837px;
+  min-height: 800px;
+  padding: 80px 195px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fafafa;
+}
+
+.furniture-33-frame-group427320852-yd {
+  width: 820px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.furniture-33-text-alur-kerja-xw2 {
+  color: #e6cf00;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.furniture-33-text4-langkah8x2 {
+  color: #000;
+  font-size: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  line-height: 52px;
+}
+
+.furniture-33-text-oleh-karena0t2 {
+  color: #374151;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  line-height: 36px;
+}
+
+.furniture-33-text-lihat-cara-cb2 {
+  color: #d9b800;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.furniture-33-image-gemini-generated-fa {
+  width: 775px;
+  height: 520px;
+  object-fit: cover;
+  border-radius: 36px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* ================= TENTANG KAMI ================= */
+.furniture-33-frame-tentang-kami6j {
+  width: 2837px;
+  max-width: 2837px;
+  min-height: 850px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 80px 195px;
+  background-color: #fff;
+}
+
+.furniture-33-frame-group427320850-hj {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.furniture-33-image-oip17p {
+  width: 780px;
+  height: 520px;
+  object-fit: cover;
+  border-radius: 36px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.furniture-33-frame-group427320849-wi {
+  width: 820px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.furniture-33-text-tentang-kami9g2 {
+  color: #e6cf00;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.furniture-33-text-we-touch-cd2 {
+  color: #1e1e1e;
+  font-size: 42px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.furniture-33-text-advertisin-adalah-ne2 {
+  color: #374151;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  line-height: 36px;
+}
+
+.furniture-33-text-more-info-kh2 {
+  color: #d9b800;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+/* ================= TESTIMONIALS ================= */
+.furniture-33-frame-group480954304s {
+  width: 2837px;
+  max-width: 2837px;
+  padding: 100px 195px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+}
+
+.furniture-33-text-testimonia-qu1 {
+  margin-bottom: 12px;
+}
+
+.furniture-33-text-testimonia-qu2 {
+  color: #e6cf00;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.furniture-33-text-review-pelanggan-tr1 {
+  margin-bottom: 60px;
+}
+
+.furniture-33-text-review-pelanggan-tr2 {
+  color: #1e1e1e;
+  font-size: 42px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.testimonial-cards-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 40px;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.furniture-33-frame-group48095419-ft,
+.furniture-33-frame-group4809542738,
+.furniture-33-frame-group4809542003 {
+  width: 386px;
+  min-height: 506px;
+  position: relative;
+  display: flex;
+  border-radius: 34px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+}
+
+.furniture-33-image-glowing-heriest-cw,
+.furniture-33-image-massive-heriest-h5,
+.furniture-33-image-illuminate-heriest-b4 {
+  width: 100%;
+  height: 506px;
+  object-fit: cover;
+  border-radius: 34px;
+}
+
+.furniture-33-frame-group480954261v,
+.furniture-33-frame-group48095426e8,
+.furniture-33-frame-group48095426p2 {
+  position: absolute;
+  bottom: 20px;
+  left: 26px;
+  width: 334px;
+  padding: 20px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.94);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+}
+
+.furniture-33-text-ibuk-sukijan-um2,
+.furniture-33-text-bang-upin-k12,
+.furniture-33-text-mpok-ina-yx2 {
+  color: #1e1e1e;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.furniture-33-text-ibu-rumah5n2,
+.furniture-33-text-pedagang-asongan-v22,
+.furniture-33-text-karyawan-swasta9y2 {
+  color: #6b7280;
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+}
+
+.furniture-33-text-makasih-panto-go2,
+.furniture-33-text-terimakasi-banyak632,
+.furniture-33-text-sangat-terjangkau-kz2 {
+  color: #374151;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  line-height: 20px;
+}
+
+.furniture-33-text-lihat-semua0z1 {
+  margin-top: 20px;
+  padding: 14px 48px;
+  border: 2px solid #ffe600;
+  border-radius: 33px;
+  display: inline-block;
+  width: auto;
+}
+
+.furniture-33-text-lihat-semua0z2 {
+  color: #1e1e1e;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+/* ================= KONTAK KAMI & FORM ================= */
+.furniture-33-frame-group427320853-yz {
+  width: 2459px;
+  max-width: 2459px;
+  padding: 80px 0 120px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 80px;
+}
+
+.kontak-kiri-col {
+  width: 680px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.furniture-33-text-kontak-kami-or2 {
+  color: #e6cf00;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.furniture-33-text-mari-diskusikan-zs2 {
+  color: #1a1a1a;
+  font-size: 38px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  line-height: 48px;
+}
+
+.furniture-33-text-jangan-ragu5m2 {
+  color: #4b5563;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  line-height: 29px;
+}
+
+.furniture-33-frame-list-info-wv {
+  gap: 24px;
+  width: 576px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 16px;
+}
+
+.furniture-33-frame-item-kontak7w,
+.furniture-33-frame-item-kontak-y1,
+.furniture-33-frame-item-kontak-si {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.furniture-33-frame-background-border-su,
+.furniture-33-frame-background-border-ca,
+.furniture-33-frame-background-border-hh {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background-color: #f9fafb;
+}
+
+.furniture-33-text-kunjungi-kantor6s2,
+.furniture-33-text-hubungi-kami9d2,
+.furniture-33-text-kirim-email-jz2 {
+  color: #1a1a1a;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.furniture-33-text-contoh-periklanan922,
+.furniture-33-text62812-vf2,
+.furniture-33-text-com-xx2 {
+  color: #4b5563;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+.furniture-33-frame-kolom-kanan-pm {
+  width: 620px;
+  position: relative;
+}
+
+.furniture-33-frame-card-form-vz {
+  gap: 24px;
+  width: 100%;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+  border-radius: 24px;
+  background-color: #fff;
+}
+
+.furniture-33-text-tinggalkan-pesan-f42 {
+  color: #1a1a1a;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.furniture-33-frame-form43 {
+  gap: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.furniture-33-frame-input-nama-t2,
+.furniture-33-frame-container-eu,
+.furniture-33-frame-container-ko,
+.furniture-33-frame-input-layanan69,
+.furniture-33-frame-input-pesan-we {
+  gap: 6px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.furniture-33-frame-input-email3t {
+  gap: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.furniture-33-text-nama-lengkap-qs2,
+.furniture-33-text-email-ss2,
+.furniture-33-text-whats-app-y52,
+.furniture-33-text-layanan-yang-sb2,
+.furniture-33-text-pesan-anda-ig2 {
+  color: #374151;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.furniture-33-input-fr,
+.furniture-33-input-vp,
+.furniture-33-input-v8 {
+  width: 100%;
+  height: 48px;
+  padding: 12px 16px;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  color: #1f2937;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background-color: #f9fafb;
+  outline: none;
+}
+
+.furniture-33-frame-options-pe {
+  width: 100%;
+  height: 48px;
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background-color: #f9fafb;
+}
+
+.furniture-33-input-textarea-d9 {
+  width: 100%;
+  min-height: 120px;
+  padding: 12px 16px;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  color: #1f2937;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background-color: #f9fafb;
+  resize: vertical;
+  outline: none;
+}
+
+.furniture-33-frame-tombol-submit-ac {
+  width: 100%;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background-color: #ff0000 !important;
+  box-shadow: 0 6px 15px rgba(255, 0, 0, 0.25);
+}
+
+.furniture-33-text-kirim-pesan-cm2 {
+  color: #fff;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+/* ================= FOOTER ================= */
+.furniture-33-frame-bz {
+  width: 2848px;
+  max-width: 2848px;
+  padding: 80px 195px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  background-color: #000;
+}
+
+.footer-top-grid {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.footer-brand-col {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  max-width: 650px;
+}
+
+.furniture-33-text-seo-social8e2 {
+  color: #9b9b9c;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 28px;
+}
+
+.furniture-33-frame62 {
+  gap: 140px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.furniture-33-text-navigation-s42,
+.furniture-33-text-licence352,
+.furniture-33-text-contact-ma2 {
+  color: #ff0000;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.furniture-33-text-service-agency-h32,
+.furniture-33-text-service-agency-h33,
+.furniture-33-text-service-agency-h34,
+.furniture-33-text-service-agency-h35,
+.furniture-33-text-service-agency-h36,
+.furniture-33-text-privacy-policy082,
+.furniture-33-text-privacy-policy083,
+.furniture-33-text-privacy-policy084,
+.furniture-33-text406555b92,
+.furniture-33-text-com-f72,
+.furniture-33-text-santa-ana-q82 {
+  color: #9b9b9c;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 28px;
+  margin-bottom: 12px;
+}
+
+.furniture-33-frame-line1-ug {
+  width: 100%;
+  border: none;
+  border-top: 1px solid #333;
+}
+
+.furniture-33-text-hariest-advertaisi-n02 {
+  color: #fff;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+
+/* ================= BARIS LOGO BRAND PARTNER ================= */
+.brand-logos-bar {
+  width: 2459px;
+  max-width: 2459px;
+  padding: 50px 20px 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 32px;
+  background-color: #ffffff;
+}
+
+.brand-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #000000;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  opacity: 0.9;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.brand-item:hover {
+  opacity: 1;
+  transform: translateY(-2px);
+}
+
+.brand-item img {
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+}
